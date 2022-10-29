@@ -93,7 +93,6 @@ function randomNumber (m,n)
 }
 
 function animation_scene() { 
-	debugger
 	if(s <= 250){
 		for(var j = 0; j < arrayImages.length; j ++) {	
 			// РџРµСЂРµСЃС‡РёС‚Р°С‚СЊ РєРѕРѕСЂРґРёРЅР°С‚С‹
